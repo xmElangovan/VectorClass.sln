@@ -1,2 +1,2 @@
-# VectorClass.sln
+# VectorClass
 Learning Vector Class
